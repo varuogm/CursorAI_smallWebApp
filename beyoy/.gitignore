@@ -1,0 +1,75 @@
+
+# Build Folders
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider files
+.idea/
+
+# User-specific files
+*.sln.ide
+
+# Visual Studio Code files
+.vscode/
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# DotNet specific files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Publish folder
+publish/
+
+# Coverage results
+coverage/
+
+# Other files
+*.db
+*.pdb
+*.mdb
+*.cache
+*.zip
+*.tar.gz
+*.tgz
+*.rar
+*.7z
+*.tar
+*.gz
+*.bz2
+*.xz
+*.dmg
+*.iso
+*.img
+*.apk
+*.appx
+*.appxbundle
+*.appxupload
+*.msix
+*.msixbundle
+*.msixupload
+*.vsix
+*.vsixmanifest
+*.nupkg
+*.snupkg
+*.symbols.nupkg
+*.symbols.snupkg
